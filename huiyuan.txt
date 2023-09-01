@@ -254,6 +254,10 @@ LOOK TV,mitv://135.148.104.228:19806/c8aab8c8683c4f35aba0e745535afd41
 惊艳成人台,mitv://generationnexxxt.com:19806/9eaea463d2f54b5d92fb34948ad0b72d
 惊艳成人台,mitv://135.148.104.228:19806/9eaea463d2f54b5d92fb34948ad0b72d
 松视1台,mitv://generationnexxxt.com:19806/878c994ac52a4c50a71914f559b0ddc6
+松视1台,mitv://generationnexxxt.com:19806/878c994ac52a4c50a71914f559b0ddc6
+松视1台,mitv://135.148.104.228:19806/878c994ac52a4c50a71914f559b0ddc6
+松视2台,mitv://generationnexxxt.com:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
+松视2台,mitv://135.148.104.228:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
 松视1台,mitv://135.148.104.228:19806/878c994ac52a4c50a71914f559b0ddc6
 松视2台,mitv://generationnexxxt.com:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
 松视2台,mitv://135.148.104.228:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
